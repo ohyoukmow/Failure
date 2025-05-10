@@ -26,8 +26,8 @@ p{
 }
 
 .serach-bar{
-    vertical-align: Middle;
-    display:block;
+    margin-left: 100 px ;
+    display: block ;
 }
 
 .thumbnail {
